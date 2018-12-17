@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/CLCL/node-BME280/readme",
   "dependencies": {
-    "i2c": "0.2.1"
+    "i2c": "https://github.com/alphacharlie/node-i2c"
   },
   "devDependencies": {
     "chai": "^3.4.1",
